@@ -3,19 +3,19 @@ const products = [
     id: 1,
     name: 'Notebook Dell Inspiron',
     category: 'Notebooks',
-    price: 'R$ 3.500,00',
+    price: 3499.99,
   },
   {
     id: 2,
     name: 'Smartphone Samsung Galaxy',
     category: 'Smartphones',
-    price: 'R$ 2.000,00',
+    price: 1999.99,
   },
   {
     id: 3,
     name: 'Fone de Ouvido Bluetooth',
     category: 'Acessórios',
-    price: 'R$ 150,00',
+    price: 149.99,
   },
 ]
 
